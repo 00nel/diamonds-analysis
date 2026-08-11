@@ -1,0 +1,26 @@
+# Environnements Python
+.venv/
+venv/
+env/
+
+# Environnements Conda
+.conda/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Données temporaires
+*.tmp
+*.temp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
