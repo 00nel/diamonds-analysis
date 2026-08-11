@@ -1,0 +1,7 @@
+numpy==2.5.1
+pandas
+matplotlib==3.11.0
+seaborn
+scikit-learn
+optuna
+jupyter
